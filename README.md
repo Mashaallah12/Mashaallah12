@@ -38,7 +38,7 @@
 </td>
 <td valign="middle" width="48%" align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/files/hyperkitty.gif" width="340" alt="coding gif" />
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
 </td>
 </tr>
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/4a/31/5e/4a315e87829d43c9897c933e3dbda86a.jpg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
