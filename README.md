@@ -30,7 +30,7 @@
 ☕ Fuel    : Tea, always Tea
 ```
 
-- 👨‍💻 Projects → **[Portfolio](https://its-my-portfolio.vercel.app/)**
+- 👨‍💻 Projects → **[Portfolio](https://my-portfolio-click-me.vercel.app/)**
 - 📄 Resume → **[View Here](https://resume-beta-virid.vercel.app/)**
 - 💬 Ask me about **React, JS, Bootstrap, HTML, CSS**
 - ⚡ Fun fact: **Tea lover ☕ — no tea, no code!**
