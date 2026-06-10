@@ -32,7 +32,7 @@
 
 - 👨‍💻 Projects → **[Portfolio](https://my-portfolio-click-me.vercel.app/)**
 - 📄 Resume → **[View Here](https://resume-beta-virid.vercel.app/)**
-- 💬 Ask me about **React, JS, Bootstrap, HTML, CSS**
+- 💬 Ask me about **React, JS, TailwindCss, HTML, CSS**
 - ⚡ Fun fact: **Tea lover ☕ — no tea, no code!**
 
 </td>
@@ -55,7 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/tailwindcss-%238511FA.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -107,7 +107,7 @@
 const mashaAllah = {
   currentBoss  : "Full Stack Development 🗡️",
   dailyCombo   : ["Wake up 🌅", "Brew Tea ☕", "Write Code 💻", "Repeat 🔁"],
-  askMeAbout   : ["React ⚛️", "JavaScript", "Bootstrap", "HTML", "CSS"],
+  askMeAbout   : ["React ⚛️", "JavaScript", "TailwindCss", "HTML", "CSS"],
   philosophy   : "Code like an artist 🎨. Debug like a detective 🔍",
   nextUnlock   : "Something that makes people say WOW 🔥"
 };
